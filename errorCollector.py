@@ -1,5 +1,3 @@
-import psutil
-import GPUtil
 import wmi
 import platform
 from datetime import datetime
