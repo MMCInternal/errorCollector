@@ -18,3 +18,5 @@ def collect_system_info(x = '*'):
 
 
 print(collect_system_info())
+
+input("Press Enter to exit...")
