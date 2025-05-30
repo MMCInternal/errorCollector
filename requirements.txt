@@ -1,0 +1,4 @@
+GPUtil==1.4.0
+psutil==7.0.0
+pywin32==310
+WMI==1.5.1
